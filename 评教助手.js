@@ -1,5 +1,5 @@
 //write by P9J7
-//classId start from 38
+//classId start from 38 to 100
 for(var start = 38; start < 100; start++){
 //fill 0
     String.prototype.lpad = function(padString, length) {
